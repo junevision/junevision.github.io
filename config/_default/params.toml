@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/favicon.png"
+favicon = "/coder.jpg"
 
 [footer]
 since = 2020
@@ -13,13 +13,12 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+subtitle = "I love to capture the beauty of life through my lens and code. Welcome to my blog where I share my thoughts, experiences, and insights on photography and technology."
 
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/junevision.png"
 
 [article]
 headingAnchor = false
