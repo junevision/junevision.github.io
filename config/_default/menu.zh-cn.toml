@@ -1,0 +1,9 @@
+[[main]]
+identifier = "home"
+name = "首页"
+url = "/zh-cn/"
+weight = 1
+
+[main.params]
+icon = "home"
+newtab = false
