@@ -16,9 +16,17 @@ url = "https://github.com/junevision"
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/jun-lei-90755591/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "linkedin"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/junevision/"
+
+[social.params]
+icon = "instagram"
