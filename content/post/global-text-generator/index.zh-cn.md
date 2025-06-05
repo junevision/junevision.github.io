@@ -134,12 +134,14 @@ public void givenValidService_whenRegexifyCalled_checkPattern() throws Exception
 ![图：通过预期断言设计，MTC云测平台自动检测出问题所在](/img/global-text-generator/assertion.png)
 
 
-> 如有需要可参考相关资料[1]。
-
 ## 参考文献
 
-[1]: https://your-link.com Prism 棱镜测试平台介绍  
-[2]: https://fakerjs.dev Faker 官方文档  
-[3]: https://www.baeldung.com/java-faker Faker 使用教程  
-[4]: https://github.com/DiUS/java-faker Java Faker GitHub 仓库  
-[5]: 
+[1]: [稀土掘金 - 国际化本地化测试新探索](https://juejin.cn/post/7441606264532680756)
+
+[2]: [TesterHome - 国际化本地化测试新探索](https://testerhome.com/topics/42209)
+
+[3]: [Faker 官方文档](https://fakerjs.dev)
+
+[4]: [Faker 使用教程](https://www.baeldung.com/java-faker)
+
+[5]: [Java Faker GitHub 仓库](https://github.com/DiUS/java-faker)

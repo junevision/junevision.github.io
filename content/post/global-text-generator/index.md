@@ -133,12 +133,14 @@ Results Presentation
 
 ![User feedback on data transfer process](/img/global-text-generator/assertion.png)
 
-> 如有需要可参考相关资料[1]。
-
 ## References
 
-[1]: https://your-link.com Prism 棱镜测试平台介绍  
-[2]: https://fakerjs.dev Faker 官方文档  
-[3]: https://www.baeldung.com/java-faker Faker 使用教程  
-[4]: https://github.com/DiUS/java-faker Java Faker GitHub 仓库  
-[5]: https://your-link.com 其他参考资料
+[1]: [JueJin - New Exploration of Internationalization and Localization Testing](https://juejin.cn/post/7441606264532680756)
+
+[2]: [TesterHome - New Exploration of Internationalization and Localization Testing](https://testerhome.com/topics/42209)
+
+[3]: [Faker Official Documentation](https://fakerjs.dev)
+
+[4]: [Baeldung - Faker Usage Tutorial](https://www.baeldung.com/java-faker)
+
+[5]: [Java Faker GitHub Repository](https://github.com/DiUS/java-faker)
