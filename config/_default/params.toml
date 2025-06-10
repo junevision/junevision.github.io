@@ -2,7 +2,7 @@
 mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
-favicon = "/coder.jpg"
+favicon = "/favicon.png"
 
 [footer]
 since = 2024
@@ -18,7 +18,7 @@ subtitle = "Welcome to my blog where I share my thoughts, experiences, and insig
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/junevision.png"
+src = "img/avatar.png"
 
 [article]
 headingAnchor = false

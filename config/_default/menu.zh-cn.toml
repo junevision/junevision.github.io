@@ -22,7 +22,7 @@ name = "LinkedIn"
 url = "https://www.linkedin.com/in/jun-lei-90755591/"
 
 [social.params]
-icon = "linkedin"
+icon = "brand-linkedin"
 
 [[social]]
 identifier = "instagram"
@@ -30,4 +30,12 @@ name = "Instagram"
 url = "https://www.instagram.com/junevision/"
 
 [social.params]
-icon = "instagram"
+icon = "brand-instagram"
+
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://www.facebook.com/junevision/"
+
+[social.params]
+icon = "brand-facebook"
