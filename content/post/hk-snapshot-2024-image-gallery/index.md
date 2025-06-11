@@ -7,7 +7,7 @@ categories:
     - photography
 
 description: This post demonstrates the interactive image gallery feature of the Hugo Stack theme, showcasing a series of street photography images in Hong Kong that I captured in 2024.
-date: 2024-09-25 00:00:00+0000
+date: 2024-09-25
 image: hk-street-shoot-2024-6.jpg
 ---
 

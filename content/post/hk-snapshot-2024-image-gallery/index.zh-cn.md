@@ -1,17 +1,17 @@
 ---
-title: 2024香港街拍 - 图片库
+title: 2024香港街拍
 tags: 
     - image gallery
     - photoswipe
 categories:
     - photography
 
-description: 这篇文章演示了Hugo Stack主题的互动图片库功能，展示了我在2024年拍摄的一系列香港街头摄影作品。
-date: 2024-09-25 00:00:00+0000
+description: 这篇文章展示了我在2024年拍摄的一系列香港街头摄影作品。
+date: 2024-09-25
 image: hk-street-shoot-2024-6.jpg
 ---
 
-## 2024香港街拍 - 图片库
+## 2024香港街拍
 
 ![Image 1](hk-street-shoot-2024-1.jpg) ![Image 2](hk-street-shoot-2024-2.jpg)
 
