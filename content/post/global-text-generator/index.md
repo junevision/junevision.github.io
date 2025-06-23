@@ -10,6 +10,7 @@ tags:
 categories:
     - tech
     - qa tools
+weight: 1
 
 ---
 
