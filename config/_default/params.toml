@@ -80,9 +80,9 @@ provider = "giscus"
 
 [comments.giscus]
 repo = "junevision/junevision.github.io"
-repoID = "R_kgDOJ8H4gA"
+repoID = "R_kgDOO0Jf8w"
 category = "General"
-categoryID = "DIC_kwDOJ8H4gM4C0H4g"
+categoryID = "DIC_kwDOO0Jf884Cr6hN"
 mapping = "pathname"
 lightTheme = "light"
 darkTheme = "dark"
