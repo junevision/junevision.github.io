@@ -18,7 +18,7 @@ This article captures part of my team's and my exploration and practice in inter
 
 <!--more-->
 
-## 1. Background and Challenges
+## Background and Challenges
 In a globalized business environment, companies are paying more and more attention to the localization adaptation of their products to ensure that their products meet the needs and usage habits of users in different regions. Product localization not only involves language and cultural diversity, but also needs to consider the compatibility of technical platforms, compliance with laws and regulations, user preferences, time zones, currency management, and frequent iterative changes in content, etc. As a product quality assurance test engineer, how to provide customers with the most excellent user experience through layers of verification tests, we face a series of challenges in the process of performing localization testing:
 - Resource constraints: Localization testing often requires specialized translators and test engineers. However, many companies have relatively limited resources in this area, making it difficult to ensure the quality and efficiency of testing.
 - Complex scenarios: Localization testing covers multiple aspects, including translation, special character handling, currency conversion, time zone adjustment, user experience optimization, and compliance testing. These configurations and switches are often time-consuming and complex, easily leading to omissions and affecting the overall testing effect.
@@ -26,36 +26,36 @@ In a globalized business environment, companies are paying more and more attenti
 - Technical integration: Currently, there are relatively few tools available on the market that can be directly used for localization testing, and they cannot fully meet our needs, requiring custom development.
 
 
-## 2. Solutions
+## Solutions
 How to reduce the regression burden on testers and improve testing efficiency has become increasingly important. In addition to conventional front-end and back-end functional automated testing, facing the many pain points of localization testing has strengthened our determination to analyze and solve problems in depth.
 Considering the existing testing technology framework and basic capabilities, we have built the Prism testing platform, which has a simple and unified front-end operation page, provides localization data testing, multi-market push testing, and multi-language translation testing, as well as ongoing multi-time zone functional automated acceptance. In the future, we will strive to build it into a comprehensive localization testing platform for internationalization.
 
 ![Prism tech architecture](/img/global-text-generator/prism-technical-architecture-diagram.png)
 
-## 3. Implementation
+## Implementation
 Next, we will introduce several tools that have been implemented during the exploration of localization testing.
 
-### 3.1 Localization Data Testing
+### Localization Data Testing
 With the acceleration of our company's globalization process, testing of data text types has become increasingly diverse. Whether it is traditional UI automation or interface automation testing, the cost of discovering unknown data defects has become higher and higher. How to efficiently and accurately verify the compatibility of multi-market data has become an urgent problem to be solved. This section introduces a practical data generation technical solution that leverages the company's MTC UI automation and QACI interface automation capabilities to automatically detect potential multi-market data compatibility defects, injecting new vitality into automated testing.
 
-#### 3.1.1 Data Prototype Collection
+#### Data Prototype Collection
 - User feedback: Through user research questionnaires, online feedback systems, customer service hotlines, and other channels, we have collected user feedback from different countries and regions, which are data issues and suggestions encountered by users in actual use, such as input names, addresses, contact information, etc. This feedback often directly reflects the user's real needs and pain points.
 - Market research: By utilizing data reports and industry analysis reports from market research agencies, we can understand market trends, competitors' data processing methods, and user preferences. This helps us build a data prototype library that is more in line with market demands.
 - Known defects: We have sorted out common defect data types from historical testing records, such as input methods, format errors, character parsing, language mismatches, etc. These defect types can serve as important references for building the data prototype library.
 
 ![User feedback on Taiwanese phonetic input issues](/img/global-text-generator/global-ticket.png)
 
-#### 3.1.2 Requirement Analysis
+#### Requirement Analysis
 Based on the product's functional modules and business processes, we further determine the types of languages and text that we need to test. First, we design and construct text data in different languages, such as English, Traditional Chinese, Thai, Vietnamese, etc., targeting our existing overseas markets. At the same time, we also need to consider different styles of text expression. This test data will be used to verify the APP's text processing capabilities and user experience in different language environments, thereby discovering potential data processing errors and boundary condition issues.
 
-#### 3.1.3 Tool Selection
+#### Tool Selection
 We have selected the mainstream multi-language testing data tool library Faker currently available on the market. Recently, the famous mid-laner Faker from the LOL League of Legends led SKT to win the fifth championship in team history at the S14 Global Finals, making him a legend in the esports industry. Similarly, the Faker library in the IT industry is also outstanding. This tool library can provide us with rich language resources and syntax rules to help us generate test data that meets the requirements. We also found that the Faker library supports most mainstream countries and regions and languages worldwide, with field designs that reflect local language styles, such as street names, postal codes, etc.
 
 ![Faker library](/img/global-text-generator/faker-library.png)
 
 In addition to having rich language resources, Faker also has the ability to randomly generate test data, ensuring that the data scenarios we validate are different each time we run the automation pipeline, thus guaranteeing the diversity of testing and exploring more potential defects.
 
-#### 3.1.4 Data Construction
+#### Data Construction
 In the process of secondary development design and construction of multi-language test data, we first considered the basic core text input types for Lalamove users and drivers, such as surname, first name, full name combination, address, email, phone number, etc.
 
 ```java
@@ -103,7 +103,7 @@ public void givenValidService_whenRegexifyCalled_checkPattern() throws Exception
 
 Our code creates a lowercase alphanumeric string of length 10, and our pattern checks the resulting string against a regular expression.
 
-#### 3.1.5 Interaction Design
+#### Interaction Design
 - Transmission efficiency: We use efficient data transmission protocols and compression algorithms, and optimize the data transmission process and network environment to ensure that data can be transmitted to the target platform in a timely and accurate manner.
 - Transmission security: When performing UI automation testing, test data needs to be transmitted from the Prism platform to the cloud testing platform. In order to ensure the security and efficiency of data transmission, we use the HTTPS protocol for encrypted transmission and set a reasonable transmission interval and retry mechanism. This not only protects the confidentiality of the data, but also ensures that the data can reach the target platform in a timely manner, providing solid data support for the testing process.
 - Process analysis:
@@ -119,7 +119,7 @@ Our code creates a lowercase alphanumeric string of length 10, and our pattern c
 
 ![MTC cloud testing platform language parameter configuration](/img/global-text-generator/MTC-parameter-config.png)
 
-#### 3.1.6 Assertions and Result Presentation
+#### Assertions and Result Presentation
 - Assertion rules: Based on the expected results of multilingual text on the client side and end-to-end interfaces, we have designed detailed assertion rules. These rules cover multiple aspects, including text content, format, special symbols, etc., to ensure the comprehensiveness and accuracy of test results. For example, for text content, we require the test data to match the expected results exactly; for format and special symbols, we require the test data to conform to specific specifications and standards.
   - Case: In daily UI automation pipeline tasks, it is necessary to verify whether the text data entered by users in the chat dialog with drivers can be displayed correctly on the page. To achieve this, we have designed corresponding assertion rules to check the consistency of text content, format, and symbols. If the test data does not match the expected results, we will trigger an assertion failure and generate a corresponding error report.
 
