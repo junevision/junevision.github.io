@@ -49,8 +49,18 @@ I work primarily with Hasselblad medium format cameras, pursuing the perfect bal
 - Tools: Jenkins, Git, Docker
 
 ### Photography Equipment
-- Cameras: Hasselblad X2D 100C, 907X & CFV 100C
-- Lenses: Various Hasselblad XCD series
+
+My main cameras:
+- Nikon D700 (Full-frame DSLR)
+- Fujifilm X-S10 (APS-C mirrorless)
+- Sony A7M4 (Full-frame mirrorless)
+
+I also have experience with:
+- Fujifilm GFX series (Medium format mirrorless)
+- Hasselblad X2D 100C, 907X & CFV 100C (Medium format mirrorless)
+
+**Lenses:**  
+I primarily use prime lenses for their sharpness and character, but also utilize zoom lenses when flexibility is needed.
 
 ### Connect With Me
 Feel free to reach out for collaborations in either technology or photography!
