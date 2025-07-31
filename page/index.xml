@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Jun Lei</title><link>https://junevision.github.io/page/</link><description>Recent content in Pages on Jun Lei</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://junevision.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://junevision.github.io/about-me/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>https://junevision.github.io/about-me/</guid><description>&lt;div style="text-align: center; margin-bottom: 2em;">
+&lt;img src="https://junevision.github.io/avatar.png" alt="Jun Lei" style="border-radius: 50%; width: 200px; height: 200px;">
+&lt;/div>
+&lt;h2 id="about-me">About Me
+&lt;/h2>&lt;p>Hello! I&amp;rsquo;m Jun Lei, a Senior Software Development Engineer in Test with extensive experience in software quality assurance and test automation. I specialize in building testing frameworks and tools that improve development efficiency and product quality.&lt;/p>
+&lt;h3 id="professional-career">Professional Career
+&lt;/h3>&lt;p>With over a decade of experience in the IT industry, I&amp;rsquo;ve worked on various projects involving:&lt;/p>
+&lt;ul>
+&lt;li>Test automation framework development&lt;/li>
+&lt;li>Test Tools and utilities development&lt;/li>
+&lt;li>Performance testing and optimization&lt;/li>
+&lt;li>CI/CD pipeline implementation&lt;/li>
+&lt;li>Quality assurance process improvement&lt;/li>
+&lt;/ul>
+&lt;h3 id="photography-passion">Photography Passion
+&lt;/h3>&lt;p>Beyond my technical career, I&amp;rsquo;m also a dedicated portrait photographer. My photography journey started in 2008, and I&amp;rsquo;ve since developed a particular interest in:&lt;/p>
+&lt;ul>
+&lt;li>Portrait photography&lt;/li>
+&lt;li>Fashion photography&lt;/li>
+&lt;li>Digital post-processing&lt;/li>
+&lt;/ul>
+&lt;p>I work primarily with Hasselblad medium format cameras, pursuing the perfect balance between technical precision and artistic expression.&lt;/p>
+&lt;h3 id="technical-skills">Technical Skills
+&lt;/h3>&lt;ul>
+&lt;li>Programming: Java, Python, JavaScript&lt;/li>
+&lt;li>Testing: Selenium, Appium, JMeter, Gatling&lt;/li>
+&lt;li>Frameworks: TestNG, JUnit, Pytest&lt;/li>
+&lt;li>Tools: Jenkins, Git, Docker&lt;/li>
+&lt;/ul>
+&lt;h3 id="photography-equipment">Photography Equipment
+&lt;/h3>&lt;p>My main cameras:&lt;/p>
+&lt;ul>
+&lt;li>Nikon D700 (Full-frame DSLR)&lt;/li>
+&lt;li>Fujifilm X-S10 (APS-C mirrorless)&lt;/li>
+&lt;li>Sony A7M4 (Full-frame mirrorless)&lt;/li>
+&lt;/ul>
+&lt;p>I also have experience with:&lt;/p>
+&lt;ul>
+&lt;li>Fujifilm GFX series (Medium format mirrorless)&lt;/li>
+&lt;li>Hasselblad X2D 100C, 907X &amp;amp; CFV 100C (Medium format mirrorless)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Lenses:&lt;/strong>&lt;br>
+I primarily use prime lenses for their sharpness and character, but also utilize zoom lenses when flexibility is needed.&lt;/p>
+&lt;h3 id="connect-with-me">Connect With Me
+&lt;/h3>&lt;p>Feel free to reach out for collaborations in either technology or photography!&lt;/p></description></item><item><title>Archives</title><link>https://junevision.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://junevision.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://junevision.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://junevision.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://junevision.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://junevision.github.io/search/</guid><description/></item></channel></rss>
