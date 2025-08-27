@@ -50,17 +50,19 @@ I work primarily with Hasselblad medium format cameras, pursuing the perfect bal
 
 ### Photography Equipment
 
-My main cameras:
-- Nikon D700 (Full-frame DSLR)
-- Fujifilm X-S10 (APS-C mirrorless)
-- Sony A7M4 (Full-frame mirrorless)
+Core systems:
+- Nikon full-frame DSLR
+- Sony full-frame mirrorless (A7M4)
+- Fujifilm APS-C mirrorless
+- Ricoh compact fixed-lens system (for everyday carry and street)
 
 I also have experience with:
 - Fujifilm GFX series (Medium format mirrorless)
 - Hasselblad X2D 100C, 907X & CFV 100C (Medium format mirrorless)
 
-**Lenses:**  
-I primarily use prime lenses for their sharpness and character, but also utilize zoom lenses when flexibility is needed.
+Lenses:
+- Primarily prime lenses for image quality and character
+- Zooms when flexibility and coverage are needed
 
 ### Connect With Me
 Feel free to reach out for collaborations in either technology or photography!
