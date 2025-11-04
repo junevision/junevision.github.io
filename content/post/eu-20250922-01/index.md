@@ -8,7 +8,7 @@ categories:
     - photography
 
 description: Crossing the first gust of wind after the pandemic, my journey finally ignited my fifth continent. I got lost in the wooden fairytales of Serbia, and found tranquility again on the mirror-like surface of Montenegro's Black Lake. Typhoons and delays became the opening chapters of the story. This world is still worth exploring.
-date: 2025-09-25
+date: 2025-09-24
 image: eu-20250922-01-02.webp
 ---
 
