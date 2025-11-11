@@ -8,7 +8,7 @@ links:
   - title: TypeScript
     description: TypeScript是JavaScript的一个超集，它提供了可选的静态类型和基于类的面向对象编程。
     website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+    image: https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000
 menu:
     main: 
         weight: 4
@@ -18,20 +18,3 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
