@@ -6,7 +6,8 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2024
-customText = "Capture the beauty of life through my lens and code"
+customText = """Site Total Visitors: <span id='vercount_value_site_uv'>Loading</span><br/>
+      Total Visits: <span id='vercount_value_site_pv'>Loading</span>"""
 
 [dateFormat]
 published = "Jan 02, 2006"
