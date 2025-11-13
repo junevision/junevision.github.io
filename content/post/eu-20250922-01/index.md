@@ -1,5 +1,5 @@
 ---
-title: 2025 European Travel Photography | Arriving on the Fifth Continent——Rediscovering the World Amidst the Fairytales and Tranquility of the Balkans
+title: 2025 European Travel Photography | Rediscovering the World Amidst the Fairytales and Tranquility of the Balkans
 tags: 
     - image gallery
     - europe
@@ -7,12 +7,12 @@ tags:
 categories:
     - photography
 
-description: Crossing the first gust of wind after the pandemic, my journey finally ignited my fifth continent. I got lost in the wooden fairytales of Serbia, and found tranquility again on the mirror-like surface of Montenegro's Black Lake. Typhoons and delays became the opening chapters of the story. This world is still worth exploring.
+description: Crossing the first gust of wind after the pandemic, I got lost in the wooden fairytales of Serbia, and found tranquility again on the mirror-like surface of Montenegro's Black Lake. This world is still worth exploring.
 date: 2025-09-24
 image: eu-20250922-01-02.webp
 ---
 
-## 2025 European Travel Photography | Arriving on the Fifth Continent——Rediscovering the World Amidst the Fairytales and Tranquility of the Balkans - Image Gallery
+## 2025 European Travel Photography | Rediscovering the World Amidst the Fairytales and Tranquility of the Balkans - Image Gallery
 
 ![Image 1](eu-20250922-01-02.webp) ![Image 2](eu-20250922-01-14.webp)
 

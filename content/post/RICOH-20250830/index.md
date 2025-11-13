@@ -1,12 +1,12 @@
 ---
-title: 2025 Ricoh Street Photography | Shenzhen OCT Creative Park | Summer Hidden in the Lens
+title: 2025 Ricoh Street Photography | Shenzhen OCT Creative Park
 tags: 
     - image gallery
     - photoswipe
 categories:
     - photography
 
-description: Wandering through OCT Creative Park with my Ricoh camera on a weekend, I stumbled upon a feast of summer scenes. Stories hidden in street corners began to emerge. Street photography is essentially aimless wandering, and the Ricoh GR taught me to coexist with uncertainty. It's not greedy, doesn't try to capture the whole world, but quietly frames a moment with its gentle touch. Perhaps what we've always needed is not a broader view, but a deeper gaze.
+description: Wandering through OCT Creative Park with my Ricoh camera on a weekend, stories hidden in street corners began to emerge. Street photography is essentially aimless wandering, and the Ricoh GR taught me to coexist with uncertainty.
 date: 2025-08-30
 image: RICOH-20250830-01.webp
 ---

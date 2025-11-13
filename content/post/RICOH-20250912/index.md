@@ -6,7 +6,7 @@ tags:
 categories:
     - photography
 
-description: I once again traveled through Hong Kong Island with my Ricoh, this time opting for negative film. Students in Republican-era uniforms streamed out of the school gates, their sleeves fluttering, a glimpse of time slipping through the air. Red and green taxis plied the streets like the blood of a city, carrying countless stories in all directions. On the escalators of shopping malls, suited office workers weaved in and out, creating a dynamic landscape of the modern city. Perhaps this is the meaning of photography, not to record the world as it actually is, but to preserve its reflection in our hearts.
+description: I once again traveled through Hong Kong Island with my Ricoh. Perhaps this is the meaning of photography, not to record the world as it actually is, but to preserve its reflection in our hearts.
 date: 2025-09-12
 image: RICOH-20250912-09.webp
 

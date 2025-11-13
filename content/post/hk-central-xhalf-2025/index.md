@@ -6,7 +6,7 @@ tags:
 categories:
     - photography
 
-description: Holding the latest Fujifilm half-frame camera, the X half, with a 32mm equivalent focal length, I captured the texture of the cobblestones on the cobblestone street, the texture of the red brick walls of Tai Kwun, and the arc of the Star Ferry cutting through Victoria Harbour, all within the narrative of the 3:4 frame.
+description: Holding the latest Fujifilm half-frame camera, the X half, I captured the texture of the cobblestones on the cobblestone street, the texture of the red brick walls of Tai Kwun, and the arc of the Star Ferry cutting through Victoria Harbour.
 date: 2025-08-10
 image: 20250815-4.webp
 ---

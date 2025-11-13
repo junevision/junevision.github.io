@@ -1,5 +1,5 @@
 ---
-title: 2025 European Travel Photography | Bohemian Narrative - Encountering European Romance in the Old Town of Budva
+title: 2025 European Travel Photography | Encountering European Romance in the Old Town of Budva
 tags: 
     - image gallery
     - europe
@@ -7,12 +7,12 @@ tags:
 categories:
     - photography
 
-description: When TTArtisan 75mm F2.0 lens gently kisses the Adriatic wind, the stone steps of Budva's old town and the setting sun become a natural photo studio for Bohemian girls. In the flow of light and shadow, what is captured is not just the scenery, but also a retro, languid atmosphere reminiscent of Jay Chou's song "Mojito."
+description: In the flow of light and shadow, what is captured is not just the scenery, but also a retro, languid atmosphere reminiscent of Jay Chou's song "Mojito."
 date: 2025-09-27
 image: eu-20250922-04-01-02.webp
 ---
 
-## 2025 European Travel Photography | Bohemian Narrative - Encountering European Romance in the Old Town of Budva - Gallery
+## 2025 European Travel Photography | Encountering European Romance in the Old Town of Budva - Gallery
 
 ![Image 1](eu-20250922-04-01-01.webp) ![Image 2](eu-20250922-04-01-02.webp)
 

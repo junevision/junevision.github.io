@@ -7,7 +7,7 @@ tags:
 categories:
     - photography
 
-description: When a rising star in Chinese optics meets the colorful capital of the Balkans, a dialogue about portability and quality unfolds. Armed with the delightful TTArtisan 75mm f/2.0 lens, I strolled through the streets of Tirana, capturing the city's every breath—a breath of vibrant life—through Fujifilm's color philosophy and the lens's unique perspective.
+description: Armed with the delightful TTArtisan 75mm f/2.0 lens, I strolled through the streets of Tirana, capturing the city's every breath—a breath of vibrant life—through Fujifilm's color philosophy and the lens's unique perspective.
 date: 2025-09-26
 image: eu-20250922-03-20.webp
 ---
