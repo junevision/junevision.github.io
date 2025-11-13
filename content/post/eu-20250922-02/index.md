@@ -7,7 +7,7 @@ tags:
 categories:
     - photography
 
-description: Follow my lens and climb Rozafa Castle! Every step you take is a step into the history of the Illyrians, and every turn reveals traces of the Ottoman Empire. The view from the summit will truly bring tears to your eyes.
+description: Follow my lens and climb Rozafa Castle! The view from the summit will truly bring tears to your eyes.
 date: 2025-09-25
 image: eu-20250922-02-21.webp
 ---
