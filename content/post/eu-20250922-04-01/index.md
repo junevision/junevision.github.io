@@ -9,7 +9,7 @@ categories:
 
 description: In the flow of light and shadow, what is captured is not just the scenery, but also a retro, languid atmosphere reminiscent of Jay Chou's song "Mojito."
 date: 2025-09-27
-image: eu-20250922-04-01-02.webp
+image: eu-20250922-04-01-13.webp
 ---
 
 ## 2025 European Travel Photography | Encountering European Romance in the Old Town of Budva - Gallery
