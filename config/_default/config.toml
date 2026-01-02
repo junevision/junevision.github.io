@@ -2,6 +2,10 @@ baseurl = "https://junevision.github.io"
 languageCode = "en-us"
 title = "junevision - Capture beauty of life through lens and code"
 
+# GitHub Actions builds can be slower (cold caches + image processing).
+# Increase the per-page render timeout from the default (1m).
+timeout = "10m"
+
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "en"
